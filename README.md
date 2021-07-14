@@ -1,2 +1,3 @@
-# Dr-A-P-J-Abdul-Kalam
-Dr. A. P. J. Abdul Kalam Tribute Page
+This is Dr. A. P. J. Abdul Kalam Tribute Page
+
+It makes up the first part of my coding portfolio.
